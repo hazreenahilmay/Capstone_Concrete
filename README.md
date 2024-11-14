@@ -1,6 +1,6 @@
 # Image classification model to accurately identify concrete structures with or without cracks
 
-## Model Architecture:
+Model Architecture:
 
 ![model](https://github.com/user-attachments/assets/df5282cf-84e5-44de-9d46-3b5fef995de8)
 
