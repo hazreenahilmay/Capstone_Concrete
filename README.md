@@ -1,4 +1,1 @@
 # Capstone_Concrete
-
-
-# YOLO
