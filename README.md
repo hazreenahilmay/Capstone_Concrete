@@ -11,3 +11,7 @@ Accuracy:
 Loss:
 
 ![loss](https://github.com/user-attachments/assets/30646224-528e-4dce-8afd-b3665304e223)
+
+
+Reference: 
+https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
